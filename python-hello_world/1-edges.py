@@ -1,10 +1,10 @@
 word = "Holberton"
 
-word_first_3 = word[:3]
+# word_first_3 = word[:3]
 
-word_last_2 = word[7:]
+# word_last_2 = word[7:]
 
-middle_word = word[1:8]
+# middle_word = word[1:8]
 
 print("First 3 letters: {}".format(word[:3]))
 
