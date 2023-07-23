@@ -1,4 +1,3 @@
-Python_script = "Programming is like building a multilingual puzzle"
-
-print(Python_script)
+script = "Programming is like building a multilingual puzzle"
+print(script)
 
