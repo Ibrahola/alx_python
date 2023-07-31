@@ -1,13 +1,5 @@
 
-# A program that prints all numbers from 0 to 98 in decimal and in hexadecimal 
-
-
-# def print_num_dec_and_hex():
-#     for num in range(99):
-#         print(num, hex(num))
-
-# print_num_dec_and_hex()
-
-
+hex = "0,1,2,3,4,5,6,7,8,9,10,a,b,c,d,e,f"
 for number in range(99):
-    print(f"{number}")
+    for i in hex:
+        print("{} = {} * {}".format(number, (number * i)))
