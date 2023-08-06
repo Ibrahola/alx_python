@@ -1,0 +1,3 @@
+
+def argv(*arg):
+    pass
