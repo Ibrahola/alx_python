@@ -1,5 +1,5 @@
 def multiple_returns(sentence):
-    if sentence[0] == " ":
+    if sentence[0] == (" "):
         return "The first string is empty"
     else:
         return sentence
