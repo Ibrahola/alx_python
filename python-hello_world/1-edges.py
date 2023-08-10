@@ -1,4 +1,3 @@
-# printing words
 word = "Holberton"
 word1 = "School"
 print("First 3 letters: {}".format(word[:3]))
