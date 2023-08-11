@@ -6,7 +6,7 @@ num = abs(num)
 if number < 0:
     print("The last digit of {} is -{} and it is less than 6 and not 0".format(number, num))
 elif num > 5:
-    print("The last digit of {} is {} and is greater 5".format(number, num))
+    print("Last digit of {} is {} and is greater than 5".format(number, num))
 elif num == 0:
     print("The last digit of {} is {} and is 0".format(number, num))
 else:
