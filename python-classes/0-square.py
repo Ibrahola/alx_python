@@ -4,5 +4,4 @@ class Square:
 
 
 my_square = Square(3)
-print(type(my_square))
 
