@@ -1,7 +1,6 @@
 class Square:
 
     def area(self, num):
-        self.num = num
         return num * num
 
     def __init__(self, num):
