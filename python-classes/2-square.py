@@ -7,5 +7,5 @@ class Square:
         self.num = num
 
 
-my_square_1 = Square(3)
-print("Area: {}".format(my_square_1.area(3)))
+my_square = Square(3)
+print("Area: {}".format(my_square.area(3)))
