@@ -1,6 +1,6 @@
 class Square:
     def __init__(self, size):
-        self.__size= size
+        self.__size = size
 
 
 my_square = Square(3)
@@ -18,4 +18,3 @@ try:
     print(my_square.__size)
 except Exception as e:
     print(e)
-
