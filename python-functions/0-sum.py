@@ -1,5 +1,5 @@
 def add(a, b):
     return a + b
 
-
-print(add(1, 2))
+sum1 = add(1, 2)
+print(sum1)
